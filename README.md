@@ -1,3 +1,6 @@
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 
 # Insignias y certificados
 ![AWS Cloud Partitioner](https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)
